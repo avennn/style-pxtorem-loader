@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## style-pxtorem-loader
+
+A simple webpack loader that transform px to rem for your style, etc in jsx.
 
 You can use the [editor on GitHub](https://github.com/avennn/style-pxtorem-loader/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
